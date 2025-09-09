@@ -14,7 +14,7 @@ function Newsletter() {
         </p>
       </div>
       <div className=" ">
-        <div className="flex gap-6 ">
+        <div className="flex flex-col md:flex-row gap-6 ">
           <input
             type="email"
             placeholder="Enter Email"

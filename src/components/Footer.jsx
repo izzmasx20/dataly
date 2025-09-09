@@ -35,7 +35,7 @@ function Footer() {
             </a>
           </div>
         </div>
-        <div className="flex justify-between gap-5 w-full ">
+        <div className="flex justify-between gap-5 w-full text-sm md:text-xl ">
           <div className="flex flex-col gap-3">
             <h1 className=" text-gray-300 font-bold  ">Solutions</h1>
             <h1 className="">Analytics</h1>
