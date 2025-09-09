@@ -4,7 +4,7 @@ import Button from "./Button";
 function Hero() {
   return (
     <div className="bg-black p-5">
-      <h3 className="text-sm md:text-xl text-green-600 font-semibold text-center uppercase ">
+      <h3 className="text-sm md:text-xl text-green-600 font-semibold text-center uppercase mt-15 ">
         growing with data analytics
       </h3>
       <h1 className=" text-3xl md:text-7xl text-white font-bold text-center mt-7  ">
